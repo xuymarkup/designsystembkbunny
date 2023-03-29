@@ -1,6 +1,6 @@
 import React from "react";
 import styled, { css } from "styled-components";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 
 import { Image, Placeholder, Title, Box, Text } from "accessories";
 

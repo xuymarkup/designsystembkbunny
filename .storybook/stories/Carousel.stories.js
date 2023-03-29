@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import styled, { css } from "styled-components";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 
 import { Title, Anchor, Box, Image, Carousel, Text } from "accessories";
 

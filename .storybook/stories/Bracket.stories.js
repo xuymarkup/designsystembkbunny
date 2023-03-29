@@ -1,6 +1,6 @@
 import React from "react";
 import { Bracket, BracketRight } from "../../lib/widgets";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 
 export default {
     title: "Desing System/Widget/Bracket",

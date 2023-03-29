@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 import { Title } from "accessories";
 import HighImpactItem from "../../lib/items/HighImpactItem";
 import highimpactitem from "../../lib/items/HighImpactItem/highimpactitem.json";

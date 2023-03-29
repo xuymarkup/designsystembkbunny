@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 
 import ItemLeague from "../../lib/items/ItemLeague";
 

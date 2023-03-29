@@ -1,5 +1,5 @@
 import React from "react";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 import { Title } from "../../lib/accessories";
 import Ticker from "../../lib/widgets/Ticker";
 import Mock from "./imageMock.json";

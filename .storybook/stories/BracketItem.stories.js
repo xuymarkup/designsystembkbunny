@@ -1,7 +1,7 @@
 import React from "react";
 import { BracketItem } from "../../lib/items";
 import { Box } from "../../lib/accessories";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 
 export default {
     title: "Desing System/Items/Bracket",

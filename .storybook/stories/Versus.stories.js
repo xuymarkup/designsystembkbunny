@@ -1,5 +1,5 @@
 import React from "react";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 import { Title } from "accessories";
 
 import Versus from "../../lib/widgets/Versus";

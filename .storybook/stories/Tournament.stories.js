@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Title } from "accessories";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 import { Tournament } from "../../lib/contentTypes";
 import Barcelona from "../../assets/Equipos/esc_chamlg-barc.png";
 import Bayern from "../../assets/Equipos/esc_chamlg-bmunic.png";

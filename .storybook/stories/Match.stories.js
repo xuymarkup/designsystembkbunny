@@ -1,5 +1,5 @@
 import React from "react";
-import Utils from "@televisadigital/nxtv-utilities";
+import Utils from "../../lib/helpers/utils";
 
 import {Match} from "../../lib/contentTypes/";
 import commentary from "../../lib/widgets/Commentary/commentary.json";
