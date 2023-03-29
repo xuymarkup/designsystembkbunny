@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 ![plot](./assets/Whitelabel.png)
 
-# White Label Desing System Package
+# BkBunny Desing System Package
 
 </p>
 
@@ -9,7 +9,7 @@ Desing System project for the TVSA sites syles. Front-end Styled Components fram
 
 ## 📖 Table of contents
 
-- [White Label Desing System Package](#white-label-desing-system-package)
+- [BkBunny Desing System Package](#bkbunny-desing-system-package)
   - [📖 Table of contents](#-table-of-contents)
   - [🚀 Quick start](#-quick-start)
   - [👨‍💻 Unit Testing](#-unit-testing)
