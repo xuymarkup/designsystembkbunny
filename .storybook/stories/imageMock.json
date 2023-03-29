@@ -1,0 +1,161 @@
+{
+    "_type": "Image",
+    "alt": "Cristiano Ronaldo Lionel Messi Selección Argentina Portugal",
+    "caption": "Las víctimas de CR7 y Messi en selección nacional ",
+    "credit": "PAUL ELLIS/AFP via Getty Images",
+    "original": {
+        "_type": "ImageSize",
+        "height": 1600,
+        "uri": "https://televisa.brightspotcdn.com/6b/06/e8ce0e4746068e8ae226e08306c1/cristiano-ronaldo-y-messi.jpg",
+        "width": 2180
+    },
+    "renditions": {
+        "_type": "Rendition",
+        "aspect16x9": {
+            "_type": "RenditionItem",
+            "large": {
+                "_type": "ImageSize",
+                "height": 461,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/f5c71b5/2147483647/strip/true/crop/2180x1226+0+0/resize/820x461!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 820
+            },
+            "medium": {
+                "_type": "ImageSize",
+                "height": 403,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/276c5f0/2147483647/strip/true/crop/2180x1227+0+0/resize/716x403!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 716
+            },
+            "thumbnail": {
+                "_type": "ImageSize",
+                "height": 145,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/47d4edd/2147483647/strip/true/crop/2180x1225+0+0/resize/258x145!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 258
+            },
+            "mobile-large": {
+                "_type": "ImageSize",
+                "height": 233,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/fde7c4e/2147483647/strip/true/crop/2180x1227+0+0/resize/414x233!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 414
+            },
+            "mobile-small": {
+                "_type": "ImageSize",
+                "height": 114,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/cd9ca85/2147483647/strip/true/crop/2180x1189+0+0/resize/209x114!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 209
+            }
+        },
+        "aspect4x3": {
+            "_type": "RenditionItem",
+            "large": {
+                "_type": "ImageSize",
+                "height": 614,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/edc9f71/2147483647/strip/true/crop/2132x1600+37+0/resize/818x614!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 818
+            },
+            "medium": {
+                "_type": "ImageSize",
+                "height": 537,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/6e5c4fd/2147483647/strip/true/crop/2133x1600+36+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 716
+            },
+            "small": {
+                "_type": "ImageSize",
+                "height": 305,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/f1f32cb/2147483647/strip/true/crop/2135x1600+35+0/resize/407x305!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 407
+            },
+            "thumbnail": {
+                "_type": "ImageSize",
+                "height": 202,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/afbdf09/2147483647/strip/true/crop/2123x1600+42+0/resize/268x202!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 268
+            },
+            "mobile-large": {
+                "_type": "ImageSize",
+                "height": 311,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/92f0460/2147483647/strip/true/crop/2130x1600+38+0/resize/414x311!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 414
+            }
+        },
+        "aspect1x1": {
+            "_type": "RenditionItem",
+            "medium": {
+                "_type": "ImageSize",
+                "height": 414,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/8f4a068/2147483647/strip/true/crop/1600x1600+303+0/resize/414x414!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 414
+            },
+            "small": {
+                "_type": "ImageSize",
+                "height": 220,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/56a53bf/2147483647/strip/true/crop/1600x1600+303+0/resize/220x220!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 220
+            },
+            "thumbnail": {
+                "_type": "ImageSize",
+                "height": 158,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/f63c07d/2147483647/strip/true/crop/1600x1600+303+0/resize/158x158!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 158
+            }
+        },
+        "aspect9x16": {
+            "_type": "RenditionItem",
+            "medium": {
+                "_type": "ImageSize",
+                "height": 692,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/cf28f9c/2147483647/strip/true/crop/899x1600+653+0/resize/389x692!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 389
+            }
+        },
+        "aspect3x4": {
+            "_type": "RenditionItem",
+            "medium": {
+                "_type": "ImageSize",
+                "height": 301,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/e2c8268/2147483647/strip/true/crop/1196x1600+505+0/resize/225x301!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 225
+            },
+            "small": {
+                "_type": "ImageSize",
+                "height": 301,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/e2c8268/2147483647/strip/true/crop/1196x1600+505+0/resize/225x301!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 225
+            },
+            "mobile-large": {
+                "_type": "ImageSize",
+                "height": 552,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/bea53e4/2147483647/strip/true/crop/1200x1600+503+0/resize/414x552!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 414
+            },
+            "mobile-small": {
+                "_type": "ImageSize",
+                "height": 426,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/e30295a/2147483647/strip/true/crop/1202x1600+502+0/resize/320x426!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 320
+            }
+        },
+        "aspectpanoramic": {
+            "_type": "RenditionItem",
+            "x-large": {
+                "_type": "ImageSize",
+                "height": 612,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/07d01d9/2147483647/strip/true/crop/2180x927+0+56/resize/1440x612!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 1440
+            },
+            "medium": {
+                "_type": "ImageSize",
+                "height": 435,
+                "uri": "https://televisa.brightspotcdn.com/dims4/default/4b7aeca/2147483647/strip/true/crop/2180x926+0+57/resize/1024x435!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6b%2F06%2Fe8ce0e4746068e8ae226e08306c1%2Fcristiano-ronaldo-y-messi.jpg",
+                "width": 1024
+            }
+        }
+    },
+    "seo": {
+        "_type": "Seo",
+        "description": "Las víctimas de CR7 y Messi en selección nacional",
+        "title": "Cristiano Ronaldo Lionel Messi Selección Argentina Portugal"
+    },
+    "source": "AFP",
+    "title": "Cristiano Ronaldo Lionel Messi Selección Argentina Portugal",
+    "uid": "00000174-798b-d39e-aff4-79bbe9bc0000"
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "league": "Champions League",
+        "home": "Bayer Leverkusen",
+        "away":"Tottenham",
+        "goalshome":2,
+        "goalsaway":1,
+        "part":"2do tiempo",
+        "localplayers": [
+            {
+                "player": "Lewandowski",
+                "time": 20
+            },
+            {
+                "player": "Müller",
+                "time": 67
+            }
+        ],
+        "awayplayers": [
+            {
+                "player": "Keane",
+                "time": 80
+            }
+        ]
+    }
+]

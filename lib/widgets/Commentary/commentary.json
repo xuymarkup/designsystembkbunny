@@ -1,0 +1,51 @@
+[
+    {
+        "id": 0,
+        "icon": "goal",
+        "status": "90'",
+        "event": "Well deserved victory for Juventus",
+        "description":"A well deserved victory for Juve despite a first half far from brilliant for Sarri's men. The Bianconeri changed agear in the second half and created several opportunities to score, showed a solid wall in defence an plenty of options in attack. The Bianconeri still have a margin for improvement buy they are certainly on the right path."
+    },
+    {
+        "id": 1,
+        "icon": "substitution",
+        "status": "86'",
+        "event": "Ronaldo scores!",
+        "description":"Ronaldo gets himself on the scoresheet having been fed throught by Dybala. Game over if we were in any doubt. Assist by Dybala."
+    },
+    {
+        "id": 2,
+        "icon": "penalty-miss",
+        "status": "60'",
+        "event": "Goal for Leverkusen",
+        "description":"Havertz sees his close-range effort ell held."
+    },
+    {
+        "id": 3,
+        "icon": "own-goal",
+        "status": "54'",
+        "event": "Leverkusen - Yellow card",
+        "description":"Havertz is shown the yellow card"
+    },
+    {
+        "id": 4,
+        "icon": "red-card1",
+        "status": "86'",
+        "event": "Ronaldo scores!",
+        "description":"Ronaldo gets himself on the scoresheet having been fed throught by Dybala. Game over if we were in any doubt. Assist by Dybala."
+    },
+    {
+        "id": 5,
+        "icon": "goal",
+        "status": "54'",
+        "event": "Leverkusen - Yellow card",
+        "description":"Havertz is shown the yellow card"
+    },
+    {
+        "id": 6,
+        "icon": "Video",
+        "status": "90'",
+        "event": "Well deserved victory for Juventus",
+        "description":"A well deserved victory for Juve despite a first half far from brilliant for Sarri's men. The Bianconeri changed agear in the second half and created several opportunities to score, showed a solid wall in defence an plenty of options in attack. The Bianconeri still have a margin for improvement buy they are certainly on the right path."
+    }
+]

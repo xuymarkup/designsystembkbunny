@@ -1,0 +1,189 @@
+[
+    {  
+        "id":0,
+        "suplentes":{
+            "Local": [
+            {
+            "number":8,
+            "name":"Naby Keita"
+            },
+            {
+             "number":27,
+            "name":"Divock  Orig"
+            },
+            {
+                "number":7,
+            "name":"James Milne"
+            },
+            {
+                "number":13,
+            "name":"Adrián"
+            },
+            {
+                "number":15,
+            "name":"Alex Oxlade-Chamberlai"
+            },
+            {
+                "number":23,
+            "name":"Xherdan Shaqirik"
+            },
+            {
+                "number":47,
+            "name":"Nathaniel Phillips"
+            },
+            {
+                "number":76,
+            "name":"Neco Wiliams"
+            },
+            {
+                "number":21,
+            "name":"Konstantinos Tsimikas"
+            }
+        ],
+        "Away":[
+            {
+                "number":21,
+                "name":"Ferran Torres"
+            },
+            {
+                "number":25,
+                "name":"Fernandinho"
+            },
+            {
+                "number":14,
+                "name":"Aymeric"
+            },
+            {
+                "number":82,
+                "name":"Adrián Bernabé"
+            },
+            {
+                "number":69,
+                "name":"Tommy Doyle"
+            },
+            {
+                "number":22,
+                "name":"Gabriel Jesus"
+            },
+            {
+                "number":50,
+                "name":"Benjamin Mendy"
+            }   
+        ],
+        "LocalPlayer":[
+            {
+                "number":13,
+                "name":"Adrián ",
+                "position":"gk"
+            },
+            {
+                "number":66,
+                "name":"Trent",
+                "position":"df"
+            },
+            {
+                "number":47,
+                "name":"Nathaniel",
+                "position":"df"
+            },
+            {
+                "number":19,
+                "name":"Ozan",
+                "position":"df"
+            },
+            {
+                "number":26,
+                "name":"Andrew",
+                "position":"df"
+            },
+            {
+                "number":6,
+                "name":"Thiago",
+                "position":"md"
+            },
+            {
+                "number":5,
+                "name":"Georginio",
+                "position":"md"
+            },
+            {
+                "number":17,
+                "name":"Curtis",
+                "position":"md"
+            },
+            {
+                "number":11,
+                "name":"Mohamed",
+                "position":"fw"
+            },
+            {
+                "number":9,
+                "name":"Roberto",
+                "position":"fw"
+            },
+            {
+                "number":10,
+                "name":"Sadio",
+                "position":"fw"
+            }               
+        ],
+        "AwayPlayer":[
+            {
+                "number":21,
+                "name":"Ferran",
+                "position":"fw"
+            },
+            {
+                "number":10,
+                "name":"Sergio",
+                "position":"fw"
+            },
+            {
+                "number":26,
+                "name":"Riyad",
+                "position":"fw"
+            },
+            {
+                "number":8,
+                "name":"Ilkay",
+                "position":"md"
+            },
+            {
+                "number":25,
+                "name":"Fernandinho",
+                "position":"md"
+            },
+            {
+                "number":17,
+                "name":"Kevin",
+                "position":"md"
+            },
+            {
+                "number":11,
+                "name":"Oleksandr",
+                "position":"md"
+            },
+            {
+                "number":3,
+                "name":"Rúben",
+                "position":"df"
+            },
+            {
+                "number":5,
+                "name":"John",
+                "position":"df"
+            },
+            {
+                "number":2,
+                "name":"Kyle",
+                "position":"df"
+            },
+            {
+                "number":31,
+                "name":"Ederson",
+                "position":"gk"
+            }               
+        ]
+    }
+}
+]

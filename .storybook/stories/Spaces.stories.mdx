@@ -1,0 +1,237 @@
+import { Meta, Story, ArgsTable } from "@storybook/addon-docs";
+
+<Meta title="Space & Grid"
+    parameters={{
+        viewMode: 'docs',
+        previewTabs: { canvas: { hidden: true } },
+    }}
+ />
+
+<style>{`
+  h1{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 32px;
+    border-bottom: none;
+    margin:0px;
+  }
+
+  p {    
+      font-size: 14px;
+      margin:15px 0;
+  }
+
+  .Spaces{
+        margin-top: 24px;
+        display: block;
+        margin-bottom: 48px;
+    }
+
+  .SpacesList {
+    padding: 0px;
+    max-width: 250px;
+  }
+    
+  li {
+      display: flex;
+      height: 60px;
+      align-items: center;
+      width: 100%;
+      border-bottom: 1px solid #cccccc;
+      justify-content: space-between;
+      font-family: 'Lato', sans-serif;
+      font-size: 14px;
+      line-height: 2;
+  }
+
+  .SpaceA {
+      background: #596173;
+      width:3px;
+      height:3px;
+    }
+
+  .SpaceB {
+      background: #596173;
+      width:6px;
+      height:6px;
+    }
+
+  .SpaceC {
+      background: #596173;
+      width:9px;
+      height:9px;
+    }
+
+  .SpaceD {
+      background: #596173;
+      width:12px;
+      height:12px;
+    }
+
+  .SpaceE {
+      background: #596173;
+      width:15px;
+      height:15px;
+    }
+
+  .SpaceF {
+      background: #596173;
+      width:18px;
+      height:18px;
+    }
+
+  .SpaceG {
+      background: #596173;
+      width:24px;
+      height:24px;
+    }
+
+  .SpaceH {
+      background: #596173;
+      width:36px;
+      height:36px;
+    }
+
+  .SpaceI {
+      background: #596173;
+      width:48px;
+      height:48px;
+    }
+
+  .Grid {
+      display: grid;
+      gap: 3px 3px;
+      grid-template-columns: repeat(12, 1fr);
+      grid-template-rows: repeat(6, auto);
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      /*margin:10px auto;*/
+      margin-top:24px;
+  }
+
+  .Col1 {
+      background: #f2f2f2;
+      width:auto;
+      height:50px;
+      border: solid 1px #cccccc;
+      grid-column: 1 /13;
+      grid-row: 1/ 2;
+    
+    }
+
+  .Col2{
+      background: #f2f2f2;
+      width:auto;
+      height:108px;
+      border: solid 1px #cccccc;
+      grid-column: 1 / 13;
+      grid-row: 2 / 4;
+    }
+
+  .Col3{
+      background: #f2f2f2;
+      width:auto;
+      border: solid 1px #cccccc;
+      height:50px;
+      grid-column: 1 / 13;
+      grid-row: 4 / 5;
+      }
+
+  .Col4{
+      background: #f2f2f2;
+      width:auto;
+      border: solid 1px #cccccc;
+      height:50px;
+      grid-column: 1 / 13;
+      grid-row: 5 / 6;
+
+        }
+
+  .Col5 {
+      background: #f2f2f2;
+      border: solid 1px #cccccc;
+      width:auto;
+      height:50px;
+      grid-column: 1 / 13;
+      grid-row: 6 / 7;
+      }
+  @media (min-width: 1024px) and (max-width: 1440px){
+    .Col1 {
+      grid-column: 1 /13;
+      grid-row: 1/ 2;
+    }
+
+  .Col2{
+      grid-column: 1 / 7;
+      grid-row: 2 / 4;
+    }
+
+  .Col3{
+      grid-column: 7 / 13;
+      grid-row: 2 / 3;
+      }
+
+  .Col4{
+      grid-column: 7 / 13;
+      grid-row: 3 / 4;
+        }
+
+  .Col5 {
+      grid-column: 1 / 13;
+      grid-row: 4 / 5;
+      }
+  }
+`}</style>
+
+# Spacing
+
+A grid and spacing makes it easy for users to scan the interface and capture the content.
+
+<>
+<div class="Spaces">
+    <ul class="SpacesList">
+        <li>
+            3px xtra small space <div class="SpaceA"></div>
+        </li>
+        <li>
+            6px small space <div class="SpaceB"></div>
+        </li>
+        <li>
+            9px medium space <div class="SpaceC"></div>
+        </li>
+        <li>
+            12px base space <div class="SpaceD"></div>
+        </li>
+        <li>
+            15px large space <div class="SpaceE"></div>
+        </li>
+        <li>
+            18px xtra large space <div class="SpaceF"></div>
+        </li>
+        <li>
+            24px 1xtra large space <div class="SpaceG"></div>
+        </li>
+        <li>
+            36px 2xtra large space <div class="SpaceH"></div>
+        </li>
+        <li>
+            48px 3xtra large space <div class="SpaceI"></div>
+        </li>
+    </ul>
+</div>
+</>
+
+# Grid
+
+The layout must be located in a grid that brings order and hierarchy to the interface.
+
+<>
+  <div class="Grid">
+    <div class="Col1"></div>
+    <div class="Col2"></div>
+    <div class="Col3"></div>
+    <div class="Col4"></div>
+    <div class="Col5"></div>
+  </div>
+</>

@@ -1,0 +1,73 @@
+import { Meta, Story, ArgsTable } from "@storybook/addon-docs";
+import EjemploMobil from "../assets/EjemploMobil.png";
+import EjemploDesktop from "../assets/EjemploDesktop.png";
+
+<Meta title="Modal" 
+  parameters={{
+        viewMode: 'docs',
+        previewTabs: { canvas: { hidden: true } },
+    }}
+/>
+
+<style>{`
+  h1{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 32px;
+    border-bottom: none;
+    margin:0px;
+  }
+
+  p {    
+      font-size: 14px;
+      margin:15px 0;
+  }
+
+  .Modal {
+    display:block;
+    margin-top:24px;
+  }
+
+.Mobile {
+  margin-top:24px;
+}
+
+.Desktop {
+  margin-top:48px;
+}
+
+  @media (min-width: 1024px){
+    .Modal {
+      display:flex;
+      width:100%;
+    }
+    .Desktop {
+      margin-top:24px;
+    }
+  }
+
+
+
+`}</style>
+
+# Modal
+
+The modal is used when users are required to interact on the site, 
+it is used to create a new floating layer on the current page, this 
+component is used to get the user's attention and insist that they make an interaction.
+
+<>
+<div class="Modal">
+  <div class="Mobile">
+     <h4 class="OptionTitle">Mobile</h4>
+    <p>This is an example of how it is displayed in Mobile.</p>
+    <img src={EjemploMobil} alt="Colors" />   
+  </div>
+  <div class="Desktop">
+    <h4 class="OptionTitle">Desktop</h4>
+    <p>This is an example of how it is displayed on desktop.</p>
+    <img src={EjemploDesktop} alt="Buttons" />   
+  </div>  
+</div>
+</>
+

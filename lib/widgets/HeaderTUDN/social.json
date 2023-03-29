@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Facebook",
+        "color": "#1877f2",
+        "href": "https://www.facebook.com/canalestrellas/"
+    },
+    {
+        "name": "Twitter",
+        "color": "#4a90e2",
+        "href": "https://twitter.com/Canal_Estrellas"
+    },
+    {
+        "name": "YouTube",
+        "color": "#ff0000",
+        "href": "https://www.youtube.com/user/CanaldelasEstrellas"
+    },
+    {
+        "name": "Instagram",
+        "color": "#dd2a7b",
+        "href": "https://www.instagram.com/canalestrellas/"
+    }
+]

@@ -1,0 +1,138 @@
+import { Meta, Story, ArgsTable } from "@storybook/addon-docs";
+import button from "../assets/Tech_Life_Communication.png";
+import spaces from "../assets/Tech_Life_Blockchain.png";
+import icons from "../assets/Tech_Life_Media.png";
+import colors from "../assets/Tech_Life_Management.png";
+import typo from "../assets/Tech_Life_Remote.png";
+import inputs from "../assets/Tech_Life_Virtual_Reality.png";
+import aspect from "../assets/Tech-Life-MediaImg.png";
+import box from "../assets/Tech-Life-Mediabox.png";
+import SwitchToDocs from "../switchtoDocs.js";
+
+<Meta title="Home" 
+    parameters={{
+    viewMode: 'docs',
+    previewTabs: { canvas: { hidden: true } },
+  }}
+/>
+
+<style>{`
+    h1{
+        text-align: center;
+    }
+    p {
+        text-align: center;
+        font-size: 12px;
+    }
+  .Options {
+        display: grid;
+        gap: 20px 10px;
+        grid-template-columns: repeat(2, 45%);
+        grid-template-rows: repeat(4, minmax(120px, 1fr));
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+        margin: 15px auto;
+  }
+  .OptionHome{
+        display: block;
+        text-align: left;
+        border: solid 1px;
+        border-color: #cccccc;
+        background-color: #ffffff;
+        height: 100%;
+        min-height: 100px;     
+  }
+
+  a:hover {
+            box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+        }
+
+    .OptionCaption{
+        display: block;
+        padding: 6px;
+        max-height: 24px;
+        height: auto;
+        overflow: hidden;
+    }
+
+    .OptionTitle{
+        font-size: 12px;
+        font-weight: bold;
+        color: #121212;
+        line-height: 14px;
+    }
+
+    @media (min-width: 1024px){
+        .Options {
+        display: grid;
+        gap: 20px 30px;
+        margin: 24px auto;
+        grid-template-columns: repeat(3, 30%);
+        grid-template-rows: repeat(3, 30%);
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+       } 
+    }
+
+`}</style>
+
+# Design System Televisa Digital
+
+A Design System for business products. Creating an efficient and pleasant work experience.
+
+<>
+<SwitchToDocs/>
+<div class="Options">
+    <a class="OptionHome" href="/docs/desing-system-atoms-color--color">
+    <img class="imagen" src={colors} alt="Colors" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Colors</h3>
+    </div>
+    </a>
+    <a class="OptionHome" href="/docs/desing-system-atoms-buttons--solid">
+    <img class="imagen" src={button} alt="Buttons" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Buttons</h3>
+    </div>
+    </a>
+    <a class="OptionHome" href="/docs/desing-system-atoms-typography--title">
+    <img class="imagen" src={typo} alt="Typography" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Typography</h3>
+    </div>
+    </a>
+    <a class="OptionHome" href="/docs/space-grid--page">
+    <img class="imagen" src={spaces} alt="Grid" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Space & Grid</h3>
+    </div>
+    </a>
+    <a class="OptionHome" href="/docs/desing-system-atoms-inputs--inputs">
+    <img class="imagen" src={inputs} alt="Input" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Input Field</h3>
+    </div>
+    </a>
+    <a class="OptionHome" href="/docs/desing-system-atoms-icons--icons">
+    <img class="imagen" src={icons} alt="Icons" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Icons</h3>
+    </div>
+    </a>
+    <a class="OptionHome" href="/docs/image--page">
+    <img class="imagen" src={aspect} alt="Aspect" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Image</h3>
+    </div>
+    </a>
+    <a class="OptionHome" href="/docs/desing-system-atoms-box--box">
+    <img class="imagen" src={box} alt="Box" />
+    <div class="OptionCaption">
+    <h3 class="OptionTitle">Box</h3>
+    </div>
+    </a>
+</div>
+</>
+

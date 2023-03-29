@@ -1,0 +1,162 @@
+{
+	"title": "Brackets",
+    "round16": [
+        {
+            "id": 0,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 1,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 2,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 3,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 4,
+            "local": "MCY",
+            "away": "BYM",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 5,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 6,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 7,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        }
+    ],
+    "quarter": [
+        {
+            "id": 0,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 1,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 2,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 5,
+            "scoreAway": 0,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 3,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 2,
+            "scoreAway": 1,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        }
+        
+    ],
+    "semi": [
+        {
+            "id": 0,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 3,
+            "scoreAway": 2,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        },
+        {
+            "id": 1,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 2,
+            "scoreAway": 4,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        }        
+    ],
+    "final": [
+        {
+            "id": 0,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 2,
+            "scoreAway": 2,
+            "penLocal": 5,
+            "penAway": 3,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        }
+    ],
+    "third": [
+        {
+            "id": 0,
+            "local": "RMD",
+            "away": "PSG",
+            "scoreLocal": 0,
+            "scoreAway": 0,
+            "penLocal": 5,
+            "penAway": 3,
+            "date": "12 Dic 2022",
+            "stadium": "Qatar arena"
+        }
+    ]
+}

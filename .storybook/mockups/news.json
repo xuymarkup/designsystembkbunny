@@ -1,0 +1,33 @@
+{
+	"title": "Widget News",
+    "items": [
+        {
+            "image": "https://televisa.brightspotcdn.com/dims4/default/4c37040/2147483647/strip/true/crop/1919x1080+1+0/resize/414x233!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F431060%2Fsnapshot1587143301309.jpg",
+            "key": 1,
+            "title": "Steph Curry heads to Tokyo 2020",
+            "uri": "https://www.tudn.mx/"
+        },
+        {
+            "image": "https://televisa.brightspotcdn.com/dims4/default/f663c67/2147483647/strip/true/crop/1281x720+0+0/resize/820x461!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F89%2Fe8%2F279a0d5148a79841e10be674c234%2Fchicharito-versus.jpg",
+            "key": 2,
+            "title": "The price paid by Soraya Jimenez for Olympic gold",
+            "uri": "https://www.lasestrellas.tv/"
+        },
+        {
+            "duration": "01:20",
+            "image": "https://televisa.brightspotcdn.com/dims4/default/d5e758c/2147483647/strip/true/crop/1279x720+1+0/resize/414x233!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F40%2F95%2Fedb8c2574d1290937881b1f8a8fe%2Ftemplate-exclusiva-oficial.jpg",
+            "key": 3,
+            "title": "The other side of the Blue Panther fighter",
+          	"icon": "Play",
+            "uri": "https://www.bandamax.tv/"
+        },
+        {
+            "duration": "04:40",
+            "image": "https://televisa.brightspotcdn.com/dims4/default/716befe/2147483647/strip/true/crop/1919x1080+1+0/resize/414x233!/quality/90/?url=https%3A%2F%2Fvideoassets.televisa.com%2F416395%2Fsnapshot1583217530640.jpg",
+            "key": 4,
+            "title": "Edson Alvarez replies to Ronald Boer",
+          	"icon": "Play",
+            "uri": "https://www.telehit.com/"
+        }
+    ]
+}

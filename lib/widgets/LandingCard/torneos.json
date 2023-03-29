@@ -1,0 +1,38 @@
+[
+    {  
+        "id":0,
+        "name": "CHAMPIONS LEAGUE"
+    },
+    {  
+        "id":1,
+        "name": "LIGA FEMENIL MX"
+    },
+    {  
+        "id":2,
+        "name": "LIGA MX"
+    },
+    {  
+    "id":3,
+    "name": "CONFERENCE LEAGUE"
+    },
+    {  
+        "id":4,
+        "name": "EUROPA LEAGUE"
+    },
+    {  
+        "id":5,
+        "name": "QATAR 2022"
+    },
+    {  
+        "id":6,
+        "name": "NFL"
+    },
+    {  
+        "id":7,
+        "name": "NBA"
+    },
+    {  
+        "id":8,
+        "name": "EURO 2020"
+    }
+  ]

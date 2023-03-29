@@ -1,0 +1,30 @@
+[
+    {
+        "path": "/liga-mx",
+        "name": "Liga MX"
+    },
+    {
+        "path": "/futbol",
+        "name": "Futbol"
+    },
+    {
+        "path": "/aqui-esta-el-tri",
+        "name": "TRI"
+    },
+    {
+        "path": "/Box",
+        "name": "Box"
+    },
+    {
+        "path": "/programas",
+        "name": "Programas"
+    },
+    {
+        "path": "/mas-deportes",
+        "name": "MÁS DEPORTES"
+    },
+    {
+        "path": "/en-vivo",
+        "name": "En vivo"
+    }
+]

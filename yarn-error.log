@@ -1,0 +1,83 @@
+Arguments: 
+  /Users/jose.morales/.nvm/versions/node/v14.16.1/bin/node /Users/jose.morales/.nvm/versions/node/v14.16.1/bin/yarn install
+
+PATH: 
+  /Users/jose.morales/.nvm/versions/node/v14.16.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/jose.morales/Library/Android/sdk/emulator:/Users/jose.morales/Library/Android/sdk/tools:/Users/jose.morales/Library/Android/sdk/tools/bin:/Users/jose.morales/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.16.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@televisadigital%2fnxtv-utilities: Not found
+      at Request.params.callback [as _callback] (/Users/jose.morales/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:66988:18)
+      at Request.self.callback (/Users/jose.morales/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:140662:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (/Users/jose.morales/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:141634:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (/Users/jose.morales/.nvm/versions/node/v14.16.1/lib/node_modules/yarn/lib/cli.js:141556:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (internal/streams/readable.js:1327:12)
+      at processTicksAndRejections (internal/process/task_queues.js:80:21)
+
+npm manifest: 
+  {
+      "name": "nxtv-design-system",
+      "version": "1.0.0",
+      "main": "index.js",
+      "license": "MIT",
+      "dependencies": {
+          "icomoon-react": "^2.0.16",
+          "react": "^17.0.2",
+          "react-dom": "^17.0.2",
+          "styled-components": "^5.2.3"
+      },
+      "devDependencies": {
+          "@babel/cli": "7.12.10",
+          "@babel/core": "7.12.10",
+          "@babel/preset-env": "7.12.10",
+          "@storybook/addon-a11y": "6.3.6",
+          "@storybook/addon-actions": "6.3.6",
+          "@storybook/addon-essentials": "6.3.6",
+          "@storybook/addon-links": "6.3.6",
+          "@storybook/addon-storysource": "6.3.6",
+          "@storybook/react": "6.3.6",
+          "@storybook/storybook-deployer": "2.8.10",
+          "@televisadigital/nxtv-utilities": "1.0.1",
+          "@whitespace/storybook-addon-html": "5.0.0",
+          "babel-eslint": "10.0.3",
+          "babel-loader": "8.0.6",
+          "babel-minify": "0.4.3",
+          "babel-plugin-lodash": "3.3.4",
+          "babel-plugin-inline-json-import": "0.3.2",
+          "babel-plugin-module-resolver": "4.0.0",
+          "eslint": "6.8.0",
+          "eslint-config-airbnb": "18.0.1",
+          "eslint-config-prettier": "6.10.0",
+          "eslint-import-resolver-babel-module": "5.1.2",
+          "eslint-plugin-import": "2.20.1",
+          "eslint-plugin-jsx-a11y": "6.2.3",
+          "eslint-plugin-module-resolver": "1.1.0",
+          "eslint-plugin-prettier": "3.1.2",
+          "eslint-plugin-react": "7.18.3",
+          "prettier": "1.19.1",
+          "prop-types": "15.7.2"
+      },
+      "scripts": {
+          "storybook": "start-storybook --ci -p 3333 -s assets",
+          "build-storybook": "build-storybook -s assets",
+          "deploy": "storybook-to-ghpages"
+      }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

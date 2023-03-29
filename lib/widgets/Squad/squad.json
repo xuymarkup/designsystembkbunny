@@ -1,0 +1,163 @@
+[
+  {  
+    "id":0,
+    "team": "Manchester United",
+    "squad":{
+        "Goalkeepers": [
+        {
+            "number":1,
+        "name":"David de Gea",
+        "nation":"España",
+       "position": "Goalkeepers"
+        },
+        {
+            "number":13,
+            "name":"Lee Grant",
+            "nation":"Inglaterra",
+            "position": "Goalkeepers"
+        },
+        {
+            "number":22,
+            "name":"Sergio Romero",
+            "nation":"Argentina",
+            "position": "Goalkeepers"
+        },
+        {
+            "number":40,
+            "name":"Joel Pereira",
+            "nation":"Portugal",
+            "position": "Goalkeepers"
+        }
+        ],
+        "Defenders": [
+            {
+                "number":2,
+                "name":"Victor Lindelöf",
+                "nation":"Suecia",
+                "position": "Defenders"
+            },
+            {
+                "number":3,
+                "name":"Erick Bailly",
+                "nation":"Costa de Marfil",
+                "position": "Defenders"
+            },
+            {
+                "number":22,
+                "name":"Harry McGuire",
+                "nation":"Inglaterra",
+                "position": "Defenders"
+            },
+            {
+                "number":4,
+                "name":"Philip Jones",
+                "nation":"Inglaterra",
+                "position": "Defenders"
+            },
+            {
+                "number":16,
+                "name":"Marcos Rojo",
+                "nation":"Argentina",
+                "position": "Defenders"
+            },
+    {
+        "number":20,
+        "name":"Diogo Dalot",
+        "nation":"Portugal",
+        "position": "Defenders"
+    },
+    {
+        "number":23,
+        "name":"Luke Shaw",
+        "nation":"Inglaterra",
+        "position": "Defenders"
+    },
+
+    {
+        "number":29,
+        "name":"Aaron Wan-Bissaka",
+        "nation":"Inglaterra",
+        "position": "Defenders"
+    },
+    {
+        "number":20,
+        "name":"Axel Tuanzebe",
+        "nation":"Inglaterra",
+        "position": "Defenders"
+    }
+        ],
+        "Midfielders": [
+            {
+                "number":6,
+                "name":"Paul Pogba",
+                "nation":"Francia",
+                "position": "Midfielders"
+            },
+            {
+                "number":8,
+                "name":"Juan Mata",
+                "nation":"España",
+                "position": "Midfielders"
+            },
+            {
+                "number":14,
+                "name":"Jesse Lingard",
+                "nation":"Inglaterra",
+                "position": "Midfielders"
+            },
+            {
+                "number":15,
+                "name":"Andreas Pereira",
+                "nation":"Brasil",
+                "position": "Midfielders"
+            },
+            {
+                "number":17,
+                "name":"Fred",
+                "nation":"Brasil",
+                "position": "Midfielders"
+            },
+            {
+                "number":21,
+                "name":"Daniel James",
+                "nation":"Gales",
+                "position": "Midfielders"
+            },
+            {
+                "number":31 ,
+                "name":"Nemanja Matic",
+                "nation":"Serbia",
+                "position": "Midfielders"
+            },
+            {
+                "number":39,
+                "name":"Scott McTonimay",
+                "nation":"Inglaterra",
+                "position": "Midfielders"
+            }
+        ],
+        "Forwards":[
+            {
+                "number":9,
+                "name":"Anthony Martial",
+                "nation":"Francia",
+                "position": "Forwards"
+            },
+            {
+                "number":10,
+                "name":"Marcus Rashford",
+                "nation":"Inglaterra",
+                "position": "Forwards"
+            }
+        ],
+        "Manager":[
+            {
+                "number":"DT",
+                "name":"Ole GunnarSolskjær",
+                "nation":"Noruega",
+                "position": "Manager"
+            }
+        ]
+    }
+}
+]

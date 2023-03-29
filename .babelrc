@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "alias": {
+                    "accessories": "./lib/accessories",
+                    "items": "./lib/items",
+                    "widgets": "./lib/widgets",
+                    "content": "./lib/contentTypes",
+                    "enhancements": "./lib/enhancements"
+                }
+            }
+        ]
+    ]
+}
