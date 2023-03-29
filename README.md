@@ -43,7 +43,7 @@ Desing System project for the TVSA sites syles. Front-end Styled Components fram
     Import in your project directory.
 
     ```sh
-    yarn add @televisadigital/nxtv-design-system
+    yarn add @bkbunny/nxtv-design-system
 
     ```
 
@@ -117,13 +117,13 @@ For transparency into our release cycle and in striving to maintain backward com
 
 ## 🤓 Learning WhiteLabel Desing System
 
-Looking for more guidance? Full documentation for General Guidelines lives [on the website](https://televisa-digital.github.io/whitelabel-markup-core/). Here are some places to start:
+Looking for more guidance? Full documentation for General Guidelines lives [on the website](https://digital.github.io/whitelabel-markup-core/). Here are some places to start:
 
-- **To dive straight [to our documentation](https://televisa-digital.github.io/whitelabel/).** In particular, check out the _Guideline_, _Modules, and _Iconography_ sections in the sidebar.
+- **To dive straight [to our documentation](https://digital.github.io/whitelabel/).** In particular, check out the _Guideline_, _Modules, and _Iconography_ sections in the sidebar.
 
 ## 🔮 Copyright and license
 
-Code and documentation copyright 2020 the Code released under the [ISC License](https://github.com/televisa-digital/nxtv-design-system/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2020 the Code released under the [ISC License](https://github.com/digital/nxtv-design-system/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
